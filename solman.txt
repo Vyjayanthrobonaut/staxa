@@ -1,3 +1,6 @@
 -adding satellite systems
 -logical system configuration
 -sld configuration
++++++============
+-EWA configuration
+-Mopz configuration
